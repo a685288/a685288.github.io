@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/a685288.github.io/static/css/main.9149988f.chunk.css",
-    "main.js": "/a685288.github.io/static/js/main.457641eb.chunk.js",
-    "main.js.map": "/a685288.github.io/static/js/main.457641eb.chunk.js.map",
-    "runtime-main.js": "/a685288.github.io/static/js/runtime-main.ca137990.js",
-    "runtime-main.js.map": "/a685288.github.io/static/js/runtime-main.ca137990.js.map",
-    "static/js/2.be548e55.chunk.js": "/a685288.github.io/static/js/2.be548e55.chunk.js",
-    "static/js/2.be548e55.chunk.js.map": "/a685288.github.io/static/js/2.be548e55.chunk.js.map",
-    "index.html": "/a685288.github.io/index.html",
-    "precache-manifest.bf91d6493e73bd985481990c46dcfcab.js": "/a685288.github.io/precache-manifest.bf91d6493e73bd985481990c46dcfcab.js",
-    "service-worker.js": "/a685288.github.io/service-worker.js",
-    "static/css/main.9149988f.chunk.css.map": "/a685288.github.io/static/css/main.9149988f.chunk.css.map",
-    "static/js/2.be548e55.chunk.js.LICENSE.txt": "/a685288.github.io/static/js/2.be548e55.chunk.js.LICENSE.txt"
+    "main.css": "/peiying-to-do-list/static/css/main.9149988f.chunk.css",
+    "main.js": "/peiying-to-do-list/static/js/main.457641eb.chunk.js",
+    "main.js.map": "/peiying-to-do-list/static/js/main.457641eb.chunk.js.map",
+    "runtime-main.js": "/peiying-to-do-list/static/js/runtime-main.827ec5ae.js",
+    "runtime-main.js.map": "/peiying-to-do-list/static/js/runtime-main.827ec5ae.js.map",
+    "static/js/2.be548e55.chunk.js": "/peiying-to-do-list/static/js/2.be548e55.chunk.js",
+    "static/js/2.be548e55.chunk.js.map": "/peiying-to-do-list/static/js/2.be548e55.chunk.js.map",
+    "index.html": "/peiying-to-do-list/index.html",
+    "precache-manifest.418d24fd7367460979ce642773624db6.js": "/peiying-to-do-list/precache-manifest.418d24fd7367460979ce642773624db6.js",
+    "service-worker.js": "/peiying-to-do-list/service-worker.js",
+    "static/css/main.9149988f.chunk.css.map": "/peiying-to-do-list/static/css/main.9149988f.chunk.css.map",
+    "static/js/2.be548e55.chunk.js.LICENSE.txt": "/peiying-to-do-list/static/js/2.be548e55.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca137990.js",
+    "static/js/runtime-main.827ec5ae.js",
     "static/js/2.be548e55.chunk.js",
     "static/css/main.9149988f.chunk.css",
     "static/js/main.457641eb.chunk.js"
